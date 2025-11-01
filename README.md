@@ -76,7 +76,9 @@ http://<EC2-Public-IP>/
 ```
 
 📸 **Screenshot:**
-![AWS Website Output](images/aws-website.png)
+![AWS Website Output]
+<img width="1912" height="970" alt="image" src="https://github.com/user-attachments/assets/1f8234a6-1fd0-4348-9095-2598cd9eade0" />
+
 
 ✅ Output: “Hello from AWS EC2!”
 
@@ -95,7 +97,9 @@ sudo zip -r /tmp/website.zip /var/www/html
 Download via browser SSH → ⚙️ → **File transfer → Download `/tmp/website.zip`**
 
 📸 **Screenshot:**
-![AWS Backup File](images/aws-backup.png)
+![AWS Backup File]
+<img width="1456" height="130" alt="image" src="https://github.com/user-attachments/assets/9bc66e26-b8c8-411b-a4fc-2ff38a8495b7" />
+
 
 ✅ Backup complete!
 
@@ -111,7 +115,9 @@ Download via browser SSH → ⚙️ → **File transfer → Download `/tmp/websi
 * Firewall: ✅ Allow HTTP traffic
 
 📸 **Screenshot:**
-![GCP VM Creation](images/gcp-vm-creation.png)
+![GCP VM Creation]
+<img width="1565" height="291" alt="image" src="https://github.com/user-attachments/assets/5e821635-2b07-4027-8ec7-20d88c0c7594" />
+
 
 ---
 
@@ -149,7 +155,9 @@ sudo systemctl enable --now apache2
    ```
 
 📸 **Screenshot:**
-![GCP Upload File](images/gcp-upload.png)
+![GCP Upload File]
+<img width="1126" height="897" alt="image" src="https://github.com/user-attachments/assets/bbf9f12e-7d3a-47ee-8eca-673c91c3fb0b" />
+
 
 ---
 
@@ -162,7 +170,9 @@ http://<GCP-External-IP>/
 ```
 
 📸 **Screenshot:**
-![GCP Website Output](images/gcp-website.png)
+![GCP Website Output]
+<img width="1907" height="967" alt="image" src="https://github.com/user-attachments/assets/e90067ad-e724-4aeb-9e9d-d8922abf1d04" />
+
 
 ✅ You’ll see your same HTML page — successfully migrated from AWS to GCP!
 
