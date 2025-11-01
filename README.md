@@ -34,7 +34,8 @@ It showcases the fundamentals of multi-cloud deployment, web hosting, and file m
 * Security Group: ✅ Allow HTTP, ✅ Allow SSH
 
 📸 **Screenshot:**
-![AWS EC2 Instance](images/aws-ec2-instance.png)
+![AWS EC2 Instance]
+<img width="1889" height="760" alt="image" src="https://github.com/user-attachments/assets/2094a82d-9fba-4e75-a6ab-fa4d6c55e3bd" />
 
 ---
 
