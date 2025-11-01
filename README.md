@@ -1,10 +1,3 @@
-Perfect ✅
-Here’s the **final polished GitHub-ready README.md** — including **screenshot placeholders** so you can just drag-and-drop your images later (for AWS EC2, website test, backup file, GCP VM, etc.).
-
----
-
-## 📘 **README.md**
-
 ### ☁️ Cloud Migration Project — AWS EC2 → GCP Compute Engine
 
 ---
